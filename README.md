@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and Development 
 - 🌱 I’m currently learning Git and Hub
 - 💞️ I’m looking to collaborate on IT company
-- 😄 Pronouns: secret
+- 😄 Pronouns: siva
 - ⚡ Fun fact: smile 😊 
   
 
